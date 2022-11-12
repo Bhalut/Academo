@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+**/migrations
+.cache
+.git
+.dockerignore
+__pycache__
+db
+dist
+docs
+env
+venv
+logs
+Dockerfile
+Dockerfile.prod
